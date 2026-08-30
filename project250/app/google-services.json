@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447875857718",
+    "project_id": "project250-65f0d",
+    "storage_bucket": "project250-65f0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447875857718:android:4a121728f0cacc6bf90797",
+        "android_client_info": {
+          "package_name": "com.zivkovic.project250"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7sQiSFVeopGKgiVx6vM6tTQVu_FVWuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

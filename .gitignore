@@ -1,0 +1,16 @@
+# Gradle i Android build artefakti
+.gradle/
+build/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+local.properties
+
+# IDE
+.idea/
+.DS_Store
+
+# Arhive ranije predatih verzija projekta
+*.zip
